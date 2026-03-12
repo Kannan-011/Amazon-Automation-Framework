@@ -39,13 +39,15 @@ How to Run the Project
 
 Clone the repository
 
-git clone
+git clone <https://github.com/Kannan-011/Amazon-Automation-Framework>
 
 Open the project in Eclipse or IntelliJ
 
 Run the TestNG suite
 
-testng.xml Learning Outcome
+testng.xml
+
+Learning Outcome
 
 Through this project I gained hands-on experience with:
 
