@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AmazonSuite]">
+  <test thread-count="5" name="AmazonPurchaseTest(failed)">
+    <classes>
+      <class name="tests.AmazonPurchaseTest">
+        <methods>
+          <include name="buyIphoneTest"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- tests.AmazonPurchaseTest -->
+    </classes>
+  </test> <!-- AmazonPurchaseTest(failed) -->
+</suite> <!-- Failed suite [AmazonSuite] -->

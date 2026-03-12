@@ -1,0 +1,7 @@
+<suite name="AmazonSuite">
+    <test name="AmazonPurchaseTest">
+        <classes>
+            <class name="tests.AmazonPurchaseTest"/>
+        </classes>
+    </test>
+</suite>
